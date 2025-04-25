@@ -2,7 +2,8 @@
 # vamosbrincar
 
 <div align="center">
-<img src="https://github.com/DevWizardMarcos/vamosbrincar/blob/main/Walt%20Jedi.jpeg " align="center" style="width: 100%" />
+<img src="https://github.com/DevWizardMarcos/vamosbrincar/blob/main/Walt%20Jedi.jpeg 
+" align="center" style="width: 60%" />
 </div>  
   
 
