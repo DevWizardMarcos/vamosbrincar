@@ -1,20 +1,24 @@
 
 # vamosbrincar
 
-<div align="center">
-<img src="https://github.com/DevWizardMarcos/vamosbrincar/blob/main/Walt%20Jedi.jpeg 
-" align="center" style="width: 60%" />
+<div align="right">
+<img src="waltjedigif.gif" align="right" height="400" width="400" style="max-width: 100%;display: inline-block;position: relative;top: 17px;border-radius: 30px;" />
+
 </div>  
-  
 
 ### <div align="center">
 
 **Saudações, jovem padawan do código!** Sou Rishav, um mestre Jedi do desenvolvimento full-stack 👨‍💻, viajando pela galáxia digital desde 2013 🚀. Com o poder da Força e do código limpo, construo sistemas robustos e interfaces que fluem como um sabre de luz bem equilibrado. Se o seu projeto precisa de um guardião para mantê-lo longe do lado sombrio dos bugs, estou pronto para a missão. Que a programação esteja com você!
 
 </div>  
+
+
+
+
   
 🔭 **Explorando o futuro da tecnologia**  
 Atuo como **TI e professor** na **Infinity School de Belo Horizonte**, moldando mentes e impulsionando inovação. Minha missão é transformar desafios em oportunidades, preparando profissionais para um mundo digital em constante evolução.  
+
 
 🌱 **Raízes no código, crescendo sem limites**  
 Minha trajetória na tecnologia é como **Yggdrasil**, a árvore mitológica que conecta mundos. Cada linguagem que aprendo, cada sistema que desenvolvo, é um novo galho que expande meu conhecimento. E assim como toda grande árvore, minha jornada começou com uma pequena semente: a curiosidade e a paixão pela programação.  
@@ -25,12 +29,20 @@ A programação nos desafia constantemente com problemas complexos e questões i
 ⚡ **Aprender, aprimorar, transformar**  
 Minha energia está em **absorver conhecimento, aprimorar habilidades e converter ideias em realidade**. Resolver problemas e criar soluções eficientes é o que me move. Cada linha de código é uma oportunidade para inovar e impactar o mundo.
   
-
 <br/>  
 
 
+ <hr/>
+<div align="center">                        
+<img src="walt.png" height="350" width="400">  <img src="waltanime.png" height="400" width="400">
+</div>
+<hr/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
+
+
 
 
 
@@ -91,6 +103,7 @@ Minha energia está em **absorver conhecimento, aprimorar habilidades e converte
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## Connect with me  
